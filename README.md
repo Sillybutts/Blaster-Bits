@@ -1,14 +1,38 @@
 # Blaster-Bits
 A collection of custom parts and minor additions to blasters. These were small enough that they didn't warrant their own separate repositories. 
 
-## A list of all the things
--
--
--
--
--
--
--
+## A list of all the things (These are dropdown menus, click them)
+<details>
+<summary>Indra</summary>
+<ul>
+<li>THING 1</li>
+<li>THING 2</li>
+</ul>
+</details>
+
+<details>
+<summary>Misc</summary>
+<ul>
+<li>THING 1</li>
+<li>THING 2</li>
+</ul>
+</details>
+
+<details>
+<summary>Printable Hardware</summary>
+<ul>
+<li>THING 1</li>
+<li>THING 2</li>
+</ul>
+</details>
+
+<details>
+<summary>TCv3c-CBv3-TCU-CBU</summary>
+<ul>
+<li>THING 1</li>
+<li>THING 2</li>
+</ul>
+</details>
 
 ## Extra Files
 

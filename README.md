@@ -5,32 +5,48 @@ A collection of custom parts and minor additions to blasters. These were small e
 <details>
 <summary>Indra</summary>
 <ul>
-<li>THING 1</li>
-<li>THING 2</li>
+<li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Indra%20Beavertail%20Grip">Indra Beavertail Grip</a></li>
+<li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Indra%20Extended%20Stock%20(4%20lengths)">TIndra Extended Stock (4 lengths)</a></li>
+<li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Indra%20Flat-Faced%20Plunger">Indra Flat-Faced Plunger</a></li>
+<li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Indra%20Muzzle%20Collets">Indra Muzzle Collets</a></li>
+<li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Indra%20Passive%20Talon%20Magwell">Indra Passive Talon Magwell</a></li>
+<li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Thicker%20Indra%20Trigger">Thicker Indra Trigger</a></li>
 </ul>
 </details>
 
 <details>
 <summary>Misc</summary>
 <ul>
-<li>THING 1</li>
-<li>THING 2</li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
 </ul>
 </details>
 
 <details>
 <summary>Printable Hardware</summary>
 <ul>
-<li>THING 1</li>
-<li>THING 2</li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
 </ul>
 </details>
 
 <details>
 <summary>TCv3c-CBv3-TCU-CBU</summary>
 <ul>
-<li>THING 1</li>
-<li>THING 2</li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
+<li><a href="url">THING</a></li>
 </ul>
 </details>
 

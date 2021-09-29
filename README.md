@@ -1,7 +1,7 @@
 # Blaster-Bits
 A collection of custom parts and minor additions to blasters. These were small enough that they didn't warrant their own separate repositories. 
 
-## A list of all the things (These are dropdown menus, click them)
+## A list of all the things (These are dropdown menus with images and links, click them)
 <details>
 <summary>Indra</summary>
 <ul>

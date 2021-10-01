@@ -2,7 +2,7 @@ These are all my smaller edits for the Indra by CaptainSlug.
 
 <ul>
 
-<li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Indra%20Beavertail%20Grip">Indra Beavertail Grip</a> <a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Indra%20Beavertail%20Grip"><img src="/Indra%20Beavertail%20Grip/images/IndraBeavertailGrip1.jpg" style="width:200px;"></a></li>
+<li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Indra%20Beavertail%20Grip">Indra Beavertail Grip</a> <a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Indra%20Beavertail%20Grip"><img src="Indra%20Beavertail%20Grip/images/IndraBeavertailGrip1.jpg" style="width:200px;"></a></li>
 
 <li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Indra%20Extended%20Stock%20(4%20lengths)">Indra Extended Stock (4 lengths)</a><img src="Indra%20Extended%20Stock%20(4%20lengths)/images/IndraExtendedStock1.png" style="width:400px;"></li>
 

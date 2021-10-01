@@ -2,7 +2,7 @@ This is a set of 4 stock spacers for the Indra! They extend the stock by 0.8 inc
 
 If you want, you can print the stockspacer part and use it as a hole drilling guide on an existing bButt print instead of printing the new bButt print with the holes already in it.
 
-These use 6 4-40 screws. I also made a version that uses 3 10-32 long screws, but I think thats really overbuilt. If people break these, then I'll release that.
+These use 6 4-40 screws. I also made a version that uses 3 10-32 bolts, but I think thats really overbuilt. If people break these, then I'll release that.
 
 <img src="images/IndraExtendedStock1.png" style="width:400px;">
 

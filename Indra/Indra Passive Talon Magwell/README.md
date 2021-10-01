@@ -8,22 +8,22 @@ The BMag right, left, and front changes are just to facilitate the use of a take
 
 https://www.youtube.com/watch?v=HK3Jz8W2OEU
 
+<img src="images/IndraPassiveTalonMagwell1.png" style="width:400px;">
+
+<img src="images/IndraPassiveTalonMagwell2.png" style="width:400px;">
+
 <img src="images/BMagFront_Talon_Takedown.png" style="width:400px;">
+
+<img src="images/bCoreEliteAndTalon.png" style="width:400px;">
 
 <img src="images/BMagLeft_Talon_Takedown.png" style="width:400px;">
 
 <img src="images/BMagRight_Talon_Takedown.png" style="width:400px;">
 
-<img src="images/Erelease.png" style="width:400px;">
-
-<img src="images/IndraPassiveTalonMagwell1.png" style="width:400px;">
-
-<img src="images/IndraPassiveTalonMagwell2.png" style="width:400px;">
-
 <img src="images/MagFrontInsert_Takedown_v3.png" style="width:400px;">
 
-<img src="images/Midblock_Talon.png" style="width:400px;">
+<img src="images/Erelease.png" style="width:400px;">
 
 <img src="images/Trelease.png" style="width:400px;">
 
-<img src="images/bCoreEliteAndTalon.png" style="width:400px;">
+<img src="images/Midblock_Talon.png" style="width:400px;">

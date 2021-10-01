@@ -2,4 +2,4 @@ A beavertail grip for the Indra. This addition to the grip prevents getting "bit
 
 There is also a version of the grip without the bottom "toe" of the grip.
 
-<img src="images/IndraBeavertailGrip1.jpg" style="width:200px;">
+<img src="images/IndraBeavertailGrip1.jpg" style="width:400px;">

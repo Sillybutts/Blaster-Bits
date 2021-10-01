@@ -6,7 +6,7 @@ A collection of custom parts and minor additions to blasters. These were small e
 <summary>Indra</summary>
 <ul>
 
-<li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Indra%20Beavertail%20Grip">Indra Beavertail Grip</a> <a href=""><img src="Indra/Indra%20Beavertail%20Grip/images/IndraBeavertailGrip1.jpg" style="width:200px;"></a></li>
+<li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Indra%20Beavertail%20Grip">Indra Beavertail Grip</a> <a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Indra%20Beavertail%20Grip"><img src="Indra/Indra%20Beavertail%20Grip/images/IndraBeavertailGrip1.jpg" style="width:200px;"></a></li>
 
 <li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Indra%20Extended%20Stock%20(4%20lengths)">TIndra Extended Stock (4 lengths)</a></li>
 

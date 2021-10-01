@@ -8,6 +8,8 @@ If you don't like the slight jiggle that the mag has in some magwells, jam a fol
 
 This design is perfectly fine to print at low infill. I printed mine at 10% Gyroid, 3 walls. 
 
+<img src="images/Dummy_Talon_Family_Photo_v3.png" style="width:400px;">
+
 <img src="images/Dummy_Talon_Brimless_Extension_v4.png" style="width:400px;">
 
 <img src="images/Dummy_Talon_Brimless_Extension_v4_2.png" style="width:400px;">
@@ -15,8 +17,6 @@ This design is perfectly fine to print at low infill. I printed mine at 10% Gyro
 <img src="images/Dummy_Talon_Brimless_v8.png" style="width:400px;">
 
 <img src="images/Dummy_Talon_Brimless_v8_2.png" style="width:400px;">
-
-<img src="images/Dummy_Talon_Family_Photo_v3.png" style="width:400px;">
 
 <img src="images/Dummy_Talon_v23.png" style="width:400px;">
 

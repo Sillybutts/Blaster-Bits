@@ -124,6 +124,9 @@ A collection of custom parts and minor additions to blasters. These were small e
 
 STEP and F3D files are available upon request. Please contact me via Discord (Sillybutts#5905) for those. 
 
+### IF YOU ARE HAVING TROUBLE DOWNLOADING STEP FILES FROM GITHUB
+<img src="Indra/Indra%20Beavertail%20Grip/images/GitHubSTEPfiledownloadtutorial.png" width="700">
+
 ## Misc.
 
 **If you wish to print and sell any of these items, please contact me for licensing. I can be reached on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer). In some cases, if the part is small or simple enough, I'll probably just let you print it freely.**

@@ -115,7 +115,7 @@ A collection of custom parts and minor additions to blasters. These were small e
 
 <li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/TCv3c-CBv3-TCU-CBU/TalonClawV3c-CaliburnV3%20Beefy%20Milan%20Coupler">TalonClawV3c-CaliburnV3 Beefy Milan Coupler</a></li>
 
-<li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/TCv3c-CBv3-TCU-CBU/TalonClawV3c-CaliburnV3%20Stubby%20Grips"></a>TalonClawV3c-CaliburnV3 Stubby Grips</li>
+<li><a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/TCv3c-CBv3-TCU-CBU/TalonClawV3c-CaliburnV3%20Stubby%20Grips">TalonClawV3c-CaliburnV3 Stubby Grips</a></li>
 
 </ul>
 </details>

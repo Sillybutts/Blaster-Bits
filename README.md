@@ -125,6 +125,19 @@ A collection of custom parts and minor additions to blasters. These were small e
 STEP and F3D files are available upon request. Please contact me via Discord (Sillybutts#5905) for those. 
 
 
+
+## If you like what I do, please consider supporting me!
+
+**I don't charge for my files, so any donations or merch purchases would be greatly appreciated!**
+
+- I have a RedBubble full of fun Nerf-y designs! https://www.redbubble.com/people/Sillybutts/shop
+- I have pages on Patreon and BuyMeACoffee! 
+- - https://www.patreon.com/sillybutts
+- - https://www.buymeacoffee.com/sillybutts 
+
+
+
+
 ## Misc.
 
 **If you are having issues with any of my designs, let me know on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**

@@ -1,4 +1,17 @@
-These are all my miscellaneous files.
+These are all my miscellaneous files not big enough to warrant a proper git repository.
+
+
+## If you like what I do, please consider supporting me!
+
+**I don't charge for my files, so any donations or merch purchases would be greatly appreciated!**
+
+- I have a RedBubble full of fun Nerf-y designs! https://www.redbubble.com/people/Sillybutts/shop
+- I have pages on Patreon and BuyMeACoffee! 
+- - https://www.patreon.com/sillybutts
+- - https://www.buymeacoffee.com/sillybutts 
+
+
+
 
 ## <a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Misc/1-2CPVC%20over%201-2PVC%20barrel%20band">1/2"CPVC over 1/2"PVC barrel band</a>
 

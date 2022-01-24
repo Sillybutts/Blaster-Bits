@@ -29,3 +29,16 @@ These are all my smaller edits for the Indra by CaptainSlug.
 
 <a href="https://github.com/Sillybutts/Blaster-Bits/tree/main/Indra/Thicker%20Indra%20Trigger">
 <img src="Thicker%20Indra%20Trigger/images/ThickerIndraTrigger1.png" style="width:200px;">
+
+  
+  
+## If you like what I do, please consider supporting me!
+
+**I don't charge for my files, so any donations or merch purchases would be greatly appreciated!**
+
+- I have a RedBubble full of fun Nerf-y designs! https://www.redbubble.com/people/Sillybutts/shop
+- I have pages on Patreon and BuyMeACoffee! 
+- - https://www.patreon.com/sillybutts
+- - https://www.buymeacoffee.com/sillybutts 
+
+
